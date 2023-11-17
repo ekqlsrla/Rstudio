@@ -6,3 +6,4 @@
   * [Chapter 05 : 데이터 가공하기](https://rpubs.com/KDB/1109164)
   * [Chapter 06 : 데이터 시각화 ggplot2 패키지](https://rpubs.com/KDB/1093945)
   * [Chapter 07 : 프로젝트로 실력 다지기 (1),(2)](https://rpubs.com/KDB/1111493)
+  * [Chapter 07 : 프로젝트로 실력 다지기 (3),(4)](https://rpubs.com/KDB/1115957)
